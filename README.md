@@ -2,7 +2,7 @@
 
 ![Architecture Diagram](./docs/media/rag_solution_architecture.png)
 
-This project uses advanced techniques for parsing, indexing and improved querying over non-structured data through a simple web interface to achieve improved accuracy and performance rates than a simple out of the box Retrieval-Augmented Generation (RAG) solution.
+If you want to dive deep into this [Architecture](./ARCHITECTURE.md). This project uses advanced techniques for parsing, indexing and improved querying over non-structured data through a simple web interface to achieve improved accuracy and performance rates than a simple out of the box Retrieval-Augmented Generation (RAG) solution.
 
 To read more about the underlying design principles, architecture, and solution capabilities, please refer to the solution documentation here: [Advanced RAG Solution Accelerator Documentation](./docs/Advanced%20RAG%20Solution%20Accelerator%20Documentation.pdf).
 
