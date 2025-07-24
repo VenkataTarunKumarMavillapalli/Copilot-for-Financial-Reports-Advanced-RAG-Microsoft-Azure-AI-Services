@@ -1,6 +1,6 @@
 # AI - Powered Knowledge Retrieval System (Advanced RAG - Microsoft Azure AI Services) - Copilot for Financial Reports
 
-![Architecture Diagram](.media/rag_solution_architecture.png)
+![Architecture Diagram](./docs/media/rag_solution_architecture.png)
 
 This project uses advanced techniques for parsing, indexing and improved querying over non-structured data through a simple web interface to achieve improved accuracy and performance rates than a simple out of the box Retrieval-Augmented Generation (RAG) solution.
 
